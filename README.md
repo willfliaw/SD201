@@ -43,7 +43,6 @@ For practical exercises, you will need Python and relevant libraries for data an
    ```bash
    conda activate sd201
    ```
-
 4. Launch Jupyter Notebook (if required for exercises):
    ```bash
    jupyter notebook
